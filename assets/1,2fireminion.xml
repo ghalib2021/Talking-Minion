@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="1,2fireminion.png" type="bitmap" width="950" height="791" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:f095d9cb6081d175acbe57682f5216b3:49fbb103de1eb5f25c76a6a2f84dcf68:82edccde1c690934b6249ec867852ff3$ -->
+    <textureregion id="0" src="final_010_Layer-10.png" x="2" y="2" width="514" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="514" srcheight="310"/>
+    <textureregion id="1" src="final_011_Layer-11.png" x="518" y="2" width="427" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="427" srcheight="310"/>
+    <textureregion id="2" src="final_014_Layer-14.png" x="2" y="314" width="443" height="282" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="443" srcheight="282"/>
+    <textureregion id="3" src="final_015_Layer-15.png" x="447" y="314" width="445" height="252" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="445" srcheight="252"/>
+   <!--   <textureregion id="4" src="final_016_Layer-16.png" x="2" y="598" width="426" height="178" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="426" srcheight="178"/>
+    <textureregion id="5" src="final_017_Layer-17.png" x="430" y="598" width="254" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="254" srcheight="170"/>
+    <textureregion id="6" src="final_018_Layer-18.png" x="686" y="598" width="262" height="191" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="262" srcheight="191"/>
+-->
+</texture>

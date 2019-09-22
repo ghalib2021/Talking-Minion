@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="0,1laughminion.png" type="bitmap" width="998" height="852" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:5efde60a2ec87df36f320aeac30309e2:efa4ac88192f73ae192e3d11947e4752:481cde73c21f2cd2ff7171eb1d13144b$ -->
+    <textureregion id="0" src="laugh__0004_Layer-38.png" x="334" y="2" width="330" height="428" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="428"/>
+    <textureregion id="1" src="laugh__0016_Layer-26.png" x="334" y="2" width="330" height="428" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="428"/>
+    <textureregion id="2" src="laugh__0017_Layer-25.png" x="2" y="2" width="330" height="432" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="432"/>
+    <textureregion id="3" src="laugh__0018_Layer-24.png" x="666" y="2" width="330" height="421" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="421"/>
+    <textureregion id="4" src="laugh__0028_Layer-14.png" x="334" y="432" width="330" height="418" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="418"/>
+    <textureregion id="5" src="laugh__0029_Layer-13.png" x="666" y="425" width="330" height="417" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="417"/>
+    <textureregion id="6" src="laugh__0038_Layer-4.png" x="2" y="436" width="330" height="414" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="414"/>
+</texture>

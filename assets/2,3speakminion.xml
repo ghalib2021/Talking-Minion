@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="2,3speakminion.png" type="bitmap" width="824" height="842" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:cdefb057062b190fa8f34b91b92f30cb:8a79be3335b4b37363d6c3a6a3c09bd0:17cd0f45dc620355f25e667323bcc797$ -->
+    <textureregion id="0" src="speak__0014_Layer-6.png" x="2" y="2" width="278" height="409" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="278" srcheight="409"/>
+    <textureregion id="1" src="speak__0015_Layer-5.png" x="413" y="2" width="278" height="409" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="278" srcheight="409"/>
+    <textureregion id="2" src="speak__0016_Layer-4.png" x="2" y="282" width="278" height="409" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="278" srcheight="409"/>
+    <textureregion id="3" src="speak__0017_Layer-3.png" x="413" y="282" width="278" height="409" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="278" srcheight="409"/>
+    <textureregion id="4" src="speak__0018_Layer-2.png" x="2" y="562" width="278" height="409" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="278" srcheight="409"/>
+    <textureregion id="5" src="speak__0019_Layer-1.png" x="413" y="562" width="278" height="409" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="278" srcheight="409"/>
+</texture>

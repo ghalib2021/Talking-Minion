@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="2,3mirrorbroke.png" type="bitmap" width="1006" height="898" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:13cb21c5e5d8fadf4eaa88564e00a922:484d4865aae2049c84ce29cae33e4fc7:28531b813ba8859e7b49f7062d847c33$ -->
+    <textureregion id="0" src="final_0004_Layer-31.png" x="2" y="2" width="500" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="222"/>
+    <textureregion id="1" src="final_0005_Layer-30.png" x="504" y="2" width="500" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="222"/>
+    <textureregion id="2" src="final_0014_Layer-21.png" x="2" y="226" width="500" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="222"/>
+    <textureregion id="3" src="final_0015_Layer-20.png" x="504" y="226" width="500" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="222"/>
+    <textureregion id="4" src="final_0024_Layer-11.png" x="2" y="450" width="500" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="222"/>
+    <textureregion id="5" src="final_0025_Layer-10.png" x="504" y="450" width="500" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="222"/>
+    <textureregion id="6" src="final_0034_Layer-1.png" x="2" y="674" width="500" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="222"/>
+</texture>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="8,9pipeminion.png" type="bitmap" width="750" height="988" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:4d712f560f4782f4c983b4ec10cad7d9:a51736783bd64e0d1b8796d0e9da4355:23e7133b88bf93e58d7ae5c0c32e158e$ -->
+    <textureregion id="0" src="pipe__0014_Frame-32.png" x="378" y="2" width="368" height="491" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="368" srcheight="491"/>
+    <textureregion id="1" src="pipe__0015_Frame-31.png" x="2" y="495" width="368" height="491" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="368" srcheight="491"/>
+    <textureregion id="2" src="pipe__0016_Frame-30.png" x="374" y="495" width="368" height="491" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="368" srcheight="491"/>
+    <textureregion id="3" src="pipe__0038_Frame-8.png" x="2" y="2" width="372" height="490" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="372" srcheight="490"/>
+</texture>

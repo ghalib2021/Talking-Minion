@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="0,1splashminion.png" type="bitmap" width="1000" height="893" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:e08953b9d5338a005e8d3500ae0bbec2:6b708d59d8414721965270c347289719:96f008b957095efd0e8d1dfc8b66e92d$ -->
+    <textureregion id="0" src="Hello_main_smooth_0000_Frame-63.png" x="2" y="330" width="309" height="325" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="325"/>
+    <textureregion id="1" src="Hello_main_smooth_0001_Frame-62.png" x="2" y="330" width="309" height="325" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="325"/>
+    <textureregion id="2" src="Hello_main_smooth_0002_Frame-61.png" x="2" y="330" width="309" height="325" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="325"/>
+    <textureregion id="3" src="Hello_main_smooth_0003_Frame-60.png" x="2" y="2" width="309" height="326" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="326"/>
+    <textureregion id="4" src="Hello_main_smooth_0004_Frame-59.png" x="2" y="2" width="309" height="326" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="326"/>
+    <textureregion id="5" src="Hello_main_smooth_0005_Frame-58.png" x="313" y="2" width="309" height="325" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="325"/>
+    <textureregion id="6" src="Hello_main_smooth_0006_Frame-57.png" x="313" y="2" width="309" height="325" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="325"/>
+    <textureregion id="7" src="Hello_main_smooth_0007_Frame-56.png" x="624" y="582" width="309" height="188" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="188"/>
+    <textureregion id="8" src="Hello_main_smooth_0008_Frame-55.png" x="624" y="582" width="309" height="188" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="188"/>
+    <textureregion id="9" src="Hello_main_smooth_0009_Frame-54.png" x="814" y="582" width="309" height="184" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="184"/>
+    <textureregion id="10" src="Hello_main_smooth_0010_Frame-53.png" x="814" y="582" width="309" height="184" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="184"/>
+    <textureregion id="11" src="Hello_main_smooth_0011_Frame-52.png" x="640" y="2" width="309" height="193" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="193"/>
+    <textureregion id="12" src="Hello_main_smooth_0012_Frame-51.png" x="640" y="2" width="309" height="193" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="193"/>
+    <textureregion id="13" src="Hello_main_smooth_0015_Frame-48.png" x="313" y="697" width="309" height="186" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="186"/>
+    <textureregion id="14" src="Hello_main_smooth_0016_Frame-47.png" x="313" y="697" width="309" height="186" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="186"/>
+    <textureregion id="15" src="Hello_main_smooth_0021_Frame-42.png" x="640" y="197" width="309" height="191" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="191"/>
+    <textureregion id="16" src="Hello_main_smooth_0022_Frame-41.png" x="640" y="197" width="309" height="191" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="191"/>
+    <textureregion id="17" src="Hello_main_smooth_0023_Frame-40.png" x="313" y="313" width="309" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="190"/>
+    <textureregion id="18" src="Hello_main_smooth_0024_Frame-39.png" x="313" y="313" width="309" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="190"/>
+    <textureregion id="19" src="Hello_main_smooth_0025_Frame-38.png" x="624" y="390" width="309" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="190"/>
+    <textureregion id="20" src="Hello_main_smooth_0026_Frame-37.png" x="624" y="390" width="309" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="190"/>
+    <textureregion id="21" src="Hello_main_smooth_0027_Frame-36.png" x="313" y="505" width="309" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="190"/>
+    <textureregion id="22" src="Hello_main_smooth_0028_Frame-35.png" x="313" y="505" width="309" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="190"/>
+    <textureregion id="23" src="Hello_main_smooth_0029_Frame-34.png" x="313" y="505" width="309" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="190"/>
+    <textureregion id="24" src="Hello_main_smooth_0030_Frame-33.png" x="2" y="657" width="309" height="223" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="223"/>
+    <textureregion id="25" src="Hello_main_smooth_0031_Frame-32.png" x="2" y="657" width="309" height="223" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="223"/>
+</texture>

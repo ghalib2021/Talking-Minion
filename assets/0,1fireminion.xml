@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="0,1fireminion.png" type="bitmap" width="1023" height="832" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:48f0d47395a53a81016fb17ce6259067:4ef49bfe46884040e0f50553f97f28ae:30728521b54acdc81b451eaa5133c149$ -->
+    <textureregion id="0" src="final_001_Layer-1.png" x="2" y="2" width="256" height="153" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="153"/>
+    <textureregion id="1" src="final_002_Layer-2.png" x="260" y="2" width="250" height="152" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="250" srcheight="152"/>
+    <textureregion id="2" src="final_003_Layer-3.png" x="512" y="2" width="253" height="172" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="253" srcheight="172"/>
+    <textureregion id="3" src="final_004_Layer-4.png" x="767" y="2" width="254" height="204" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="254" srcheight="204"/>
+    <textureregion id="4" src="final_005_Layer-5.png" x="2" y="208" width="425" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="425" srcheight="310"/>
+    <textureregion id="5" src="final_006_Layer-6.png" x="429" y="208" width="514" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="514" srcheight="310"/>
+    <textureregion id="6" src="final_007_Layer-7.png" x="2" y="520" width="428" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="428" srcheight="310"/>
+    <textureregion id="7" src="final_008_Layer-8.png" x="432" y="520" width="426" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="426" srcheight="310"/>
+</texture>

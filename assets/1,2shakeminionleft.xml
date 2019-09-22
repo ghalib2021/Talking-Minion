@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="1,2shakeminionleft.png" type="bitmap" width="982" height="890" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:ccc36a6f2ffbd671e72537f7babfd9ad:de625d33f5f5ed87fec6aeb953b47f16:5f49a8264dbf8e4ed320a48654888a17$ -->
+    <textureregion id="0" src="shake-2__0002_Frame-23.png" x="594" y="2" width="292" height="386" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="292" srcheight="386"/>
+    <textureregion id="1" src="shake-2__0009_Frame-16.png" x="2" y="2" width="292" height="394" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="292" srcheight="394"/>
+    <textureregion id="2" src="shake-2__0010_Frame-15.png" x="2" y="398" width="292" height="392" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="292" srcheight="392"/>
+    <textureregion id="3" src="shake-2__0016_Frame-9.png" x="298" y="2" width="292" height="388" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="292" srcheight="388"/>
+    <textureregion id="4" src="shake-2__0017_Frame-8.png" x="594" y="298" width="292" height="386" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="292" srcheight="386"/>
+    <textureregion id="5" src="shake-2__0019_Frame-6.png" x="298" y="392" width="292" height="386" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="292" srcheight="386"/>
+    <textureregion id="6" src="shake-2__0022_Frame-3.png" x="594" y="594" width="292" height="386" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="292" srcheight="386"/>
+</texture>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="10,11idleminion.png" type="bitmap" width="594" height="793" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:72ee9c76422f04d8ba5991aecf6d97a7:d4d46362c99a804d4606d671322527cb:b36b0462d2ce0bc4aa149d184cb8a25b$ -->
+    <textureregion id="0" src="Idle__0001_Layer-74.png" x="2" y="401" width="294" height="390" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="294" srcheight="390"/>
+    <textureregion id="1" src="Idle__0037_Layer-38.png" x="298" y="396" width="294" height="390" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="294" srcheight="390"/>
+    <textureregion id="2" src="Idle__0064_Layer-11.png" x="2" y="2" width="294" height="397" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="294" srcheight="397"/>
+    <textureregion id="3" src="Idle__0065_Layer-10.png" x="298" y="2" width="294" height="392" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="294" srcheight="392"/>
+</texture>

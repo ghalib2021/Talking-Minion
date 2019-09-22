@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="0,1pipeminion.png" type="bitmap" width="1016" height="665" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:6a7499fd0536ddc2bdff89fdd80807c6:add16144d907b18177bc141e32795a04:bbd19778c141f9ea28efd6c75bb93db0$ -->
+    <textureregion id="0" src="pipe__0039_Frame-7.png" x="667" y="2" width="276" height="377" rotated="false" trimmed="true" srcx="0" srcy="5" srcwidth="276" srcheight="382"/>
+    <textureregion id="1" src="pipe__0040_Frame-6.png" x="385" y="2" width="278" height="376" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="278" srcheight="376"/>
+    <textureregion id="2" src="pipe__0041_Frame-5.png" x="2" y="282" width="278" height="375" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="278" srcheight="375"/>
+    <textureregion id="3" src="pipe__0042_Frame-4.png" x="2" y="2" width="276" height="381" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="276" srcheight="381"/>
+    <textureregion id="4" src="pipe__0043_Frame-3.png" x="656" y="381" width="276" height="358" rotated="true" trimmed="true" srcx="0" srcy="24" srcwidth="276" srcheight="382"/>
+    <textureregion id="5" src="pipe__0044_Frame-2.png" x="284" y="380" width="276" height="370" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="276" srcheight="370"/>
+</texture>

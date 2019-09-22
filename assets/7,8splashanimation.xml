@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="7,8splashanimation.png" type="bitmap" width="865" height="865" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:2cea5d181c6f47800cf17b78ca2a0261:15ffc6b0bed46ccb13adbfcfe9ac6ffa:40ee7ad1b4abf5ff1b84c6d82226bb14$ -->
+    <textureregion id="3" src="Hello__0050_Layer-13.png" x="2" y="2" width="309" height="550" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="550"/>
+    <textureregion id="2" src="Hello__0051_Layer-12.png" x="2" y="554" width="309" height="550" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="550"/>
+    <textureregion id="1" src="Hello__0052_Layer-11.png" x="313" y="2" width="309" height="550" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="550"/>
+    <textureregion id="0" src="Hello__0053_Layer-10.png" x="554" y="313" width="309" height="550" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="309" srcheight="550"/>
+</texture>

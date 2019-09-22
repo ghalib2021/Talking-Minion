@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="hitminion.png" type="bitmap" width="1003" height="890" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:5850b75501964c09f6f0a3a8ab47ca00:a2dd19557ba04c2d8d64745460bb7513:191d9c28283197bf8b51779dc727dcc2$ -->
+    <textureregion id="0" src="hit__0000_Frame-9.png" x="2" y="417" width="290" height="410" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="410"/>
+    <textureregion id="1" src="hit__0001_Frame-8.png" x="594" y="594" width="290" height="402" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="402"/>
+    <textureregion id="2" src="hit__0002_Frame-7.png" x="594" y="2" width="290" height="407" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="407"/>
+    <textureregion id="3" src="hit__0003_Frame-6.png" x="2" y="2" width="290" height="413" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="413"/>
+    <textureregion id="4" src="hit__0004_Frame-5.png" x="298" y="2" width="290" height="410" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="410"/>
+    <textureregion id="5" src="hit__0005_Frame-4.png" x="298" y="2" width="290" height="410" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="410"/>
+    <textureregion id="6" src="hit__0006_Frame-3.png" x="298" y="414" width="290" height="410" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="410"/>
+    <textureregion id="7" src="hit__0007_Frame-2.png" x="594" y="298" width="290" height="407" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="407"/>
+    <textureregion id="8" src="hit__0008_Frame-1.png" x="2" y="417" width="290" height="410" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="410"/>
+</texture>
